@@ -1,0 +1,42 @@
+h2{
+  text-align:center;
+  margin-top:10px;
+}
+body{
+  background-color: antiquewhite;
+}
+.container{
+  border:2px solid black;
+  width:400px;
+  padding:20px;
+  margin:100px auto;
+  border-radius:8px;
+  box-shadow:0px 4px 10px rgba(0,0,0,0.1);
+  background-color: white;
+}
+label{
+  display:block;
+  margin-bottom:5px;
+  font-weight:bold;
+}
+button:hover {
+  background-color: darkblue;
+}
+input{
+  padding: 5px;
+  width:100%;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  margin-bottom:10px;
+}
+button{
+  color:white;
+  background-color:blue;
+  border-radius: 4px;
+  padding:10px;
+  margin:10px auto;
+  display:block;
+}
+.hide{
+  display:none;
+}
