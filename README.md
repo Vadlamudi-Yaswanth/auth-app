@@ -23,3 +23,14 @@ A full stack authentication system built from scratch.
 5. Create .env file with your credentials
 6. nodemon server.js
 7. Open frontend/index.html in browser
+## Live Demo
+- Frontend:auth-jsy1033mb-vadlamudi-yaswanths-projects.vercel.app
+- Backend: https://auth-app-backend-jqc1.onrender.com
+
+## Features
+- User Registration with form validation
+- Secure password hashing with bcrypt
+- JWT authentication
+- Protected dashboard
+- Cloud MySQL database
+- Fully deployed on Vercel + Render + Railway
